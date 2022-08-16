@@ -1,10 +1,10 @@
 Hi I'm daisuke
 
 ## ポートフォリオ
-使用技術: Remix, TypeScript, Vercel  
+使用技術: Remix, React, TypeScript, Vercel  
 [Arseneサイト](https://www.arsene.one/)  
 [Arseneサイト - プロフィールページ](https://www.arsene.one/profile)  
-使用技術: Remix, TypeScript, Vercel, Unity  
+使用技術: Remix, React, TypeScript, Vercel, Unity  
 [Arsene Gamesサイト](https://games.arsene.one/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisuke0207)](https://github.com/anuraghazra/github-readme-stats)
